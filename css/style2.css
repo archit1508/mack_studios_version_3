@@ -1,0 +1,57 @@
+.con1 {
+  background: url(../img/bg27.jpg);
+  background-size: cover;
+  background-repeat: no-repeat;
+  background-position: center;
+}
+
+.navbar {
+  padding: 30px 75px;
+}
+
+nav ul li a {
+  font-family: "avenir";
+  color: white;
+  font-size: 1vw;
+}
+
+.he1 {
+  color: #ffffff;
+  font-size: 4vw;
+  padding: 0px 0px 0px 0px;
+  font-family: "sardonyx";
+}
+
+.he2 {
+  padding: 60px 0px;
+}
+
+.div1 {
+  padding: 330px 0px;
+}
+
+.span2 {
+  color: #ff7a0f;
+}
+
+.con2 {
+  background: url(../img/bg31.jpg);
+  background-size: cover;
+  background-repeat: no-repeat;
+  background-position: center;
+  padding: 100px;
+}
+
+.card {
+  background-color: transparent;
+  border: none;
+}
+
+.navbar.scrolled {
+  padding: 5px 60px;
+  background-color: rgba(68, 68, 68, 0.6);
+  transition: background-color 200ms linear;
+}
+.navbar.scrolled .logo-nav {
+  width: 30;
+}

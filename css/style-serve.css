@@ -1,0 +1,54 @@
+.card-serv{
+	padding: 75px;
+	border:5px solid #ffffff;
+}
+.con6,.con7{
+	padding: 15px 120px 120px 120px;
+}
+.con6 div{
+	background-repeat: no-repeat;
+	background-size: cover;
+	background-position: center;
+}
+.con6-l-1{
+	background: linear-gradient(0deg,rgba(55,55,55,0.6),rgba(55,55,55,0.8)), url(../img/resp1.jpg);
+}
+.con6-r-1-2{
+	background: linear-gradient(0deg,rgba(55,55,55,0.6),rgba(55,55,55,0.8)), url(../img/ui1.jpg);
+}
+.con6-r-1-3{
+	background: linear-gradient(0deg,rgba(55,55,55,0.6),rgba(55,55,55,0.8)), url(../img/rp2.png);
+}
+.con6-r-1-4{
+	background: linear-gradient(0deg,rgba(55,55,55,0.6),rgba(55,55,55,0.8)), url(../img/ecom1.png);
+}
+.con6 h3{
+	color: #ffffff;
+}
+.row-pm{
+	background: linear-gradient(0deg,rgba(55,55,55,0.6),rgba(55,55,55,0.8)), url('../img/bg9.jpg');
+}
+.row-con{
+	background-repeat: no-repeat;
+	background-size: cover;
+	background-position: center;
+}
+.he7{
+	padding-top: 75px;
+	font-family: 'sardonyx';
+}
+.he-pm{
+	color: #ffffff;
+	font-family: 'Josefin Slab', serif;
+	font-size: 2em;
+}
+.he-cpp{
+	padding-top: 180px;
+}
+.h-wd{
+	font-family: 'amateur dirty';
+	font-weight: lighter;
+}
+.h-wd-1{
+	padding-top: 135px;
+}
